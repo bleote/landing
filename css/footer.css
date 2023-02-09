@@ -1,0 +1,12 @@
+/* Page Footer */
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #d2d2d2;
+}
+
+.fa-brands {
+  padding: 5px;
+  font-size: 32px;
+  color: #1a1e95;
+}

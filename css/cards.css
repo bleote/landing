@@ -1,0 +1,25 @@
+/* Card Steps */
+.cards {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.card-step {
+  margin-right: 40px;
+  margin-left: 40px;
+  width: 250px;
+  height: 400px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  border-radius: 5px;
+}
+
+.card-step p {
+  padding: 20px;
+}
+
+.card-step img {
+  border-radius: 5px;
+  width: 100%
+}
